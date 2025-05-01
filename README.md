@@ -97,6 +97,7 @@ routes/
    ```bash
    git clone <url-do-repositorio>
    cd lifehub-api
+    ```
 
 2. Instale as dependências:
    ```bash
@@ -144,11 +145,8 @@ Este projeto está licenciado sob a licença **ISC**. Consulte o arquivo `LICENS
 
 ## 📞 Contato
 
-- **Autor**: [Seu Nome]
-- **Email**: [seu-email@example.com]
+- **Autor**: [Gustavo]
+- **Email**: [gustavojeanpt@gmail.com]
 - **LinkedIn**: [Seu Perfil no LinkedIn]
 
 ---
-
-💡 **Dica:** Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades!
-```
