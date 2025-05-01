@@ -37,7 +37,7 @@ MONGO_URI=<sua-string-de-conexão-com-o-MongoDB> JWT_SECRET=<sua-chave-secreta-p
 
 1. Clone o repositório:
  ```bash
- git clone <url-do-repositorio>
+ git clone <https://github.com/Gustav-Smith/Javascript>
  cd lifehub-api
 
  2. Aqui está o conteúdo completo do README atualizado para você copiar e colar:
