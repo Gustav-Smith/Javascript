@@ -97,7 +97,6 @@ routes/
    ```bash
    git clone <url-do-repositorio>
    cd lifehub-api
-   ```
 
 2. Instale as dependências:
    ```bash
