@@ -85,13 +85,12 @@ routes/
 - [Node.js](https://nodejs.org/) instalado
 - [MongoDB](https://www.mongodb.com/) configurado
 - Um arquivo `.env` com as seguintes variáveis:
-  ```
+  ```bash
   MONGO_URI=<sua-string-de-conexão-com-o-MongoDB>
   JWT_SECRET=<sua-chave-secreta-para-JWT>
   PORT=<porta-opcional>
   ```
 
-### Passos
 
 1. Clone o repositório:
    ```bash
